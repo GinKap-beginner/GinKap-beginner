@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GinKap-beginner
 - 👀 I’m interested in discovering additional tools for my professional Career
-- 🌱 I’m currently learning PHP, MySql, Html, CSS (Made a simple CRUD for my personal use)
+- 🌱 I’m currently learning PHP, MySql, Html, CSS (Made a simple CRUD for my personal use) and more to discover
+- 💞️ I’m looking a possible job at the moment. Check my linkedin ;)
 - 💞️ I’m looking to collaborate on people who can teach me the basics and more
 - 📫 How to reach me https://www.linkedin.com/in/genermedina/
 - ⚡ Fun fact: I think im funny in my own ways. Don't ask how, just say Hi! and feel it :)
