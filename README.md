@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @GinKap-beginner
+- 👀 I’m interested in discovering additional tools for my professional Career
+- 🌱 I’m currently learning PHP, MySql, Html, CSS (Made a simple CRUD for my personal use)
+- 💞️ I’m looking to collaborate on people who can teach me the basics and more
+- 📫 How to reach me https://www.linkedin.com/in/genermedina/
+- ⚡ Fun fact: I think im funny in my own ways. Don't ask how, just say Hi! and feel it :)
+
+<!---
+GinKap-beginner/GinKap-beginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
