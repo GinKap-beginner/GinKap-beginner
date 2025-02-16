@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GinKap-beginner
 - 👀 I’m interested in discovering additional tools for my professional Career
 - 🌱 I’m currently learning PHP, MySql, Html, CSS (Followed a tutorial in making a simple CRUD to know how it's done).
-- 🌱 Next is creating a simple Record Management System using Visual Studio, C#, MySql.
+- 🌱 
 - 💞️ I’m looking a possible job at the moment. Check my linkedin ;)
 - 💞️ I’m looking to collaborate on people who can teach me the basics and more
 - 📫 How to reach me https://www.linkedin.com/in/genermedina/
